@@ -1,0 +1,34 @@
+_repo: Venus-Enslaved_62137
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoskins, Winfield Scott
+    gutenberg_agent_id: '51753'
+    url: http://www.gutenberg.org/2009/agents/51753
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: ''
+gutenberg_issued: '2020-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Venus Enslaved
+url: http://www.gutenberg.org/ebooks/62137
